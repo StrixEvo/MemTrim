@@ -4,8 +4,10 @@ Logs/
 *.log
 
 # Build output. Run build.ps1 to regenerate rather than committing
-# compiled binaries to source control.
+# compiled binaries to source control. Release zips get attached to
+# GitHub Releases instead, not committed either.
 dist/
+*.zip
 
 # Editor / OS cruft
 .vs/
