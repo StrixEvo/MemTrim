@@ -27,8 +27,10 @@ from disk. That's a real, if small, one-time cost, not a free win every time.
 
 Two ways to run this, same app either way:
 
-**Just want it working:** grab `dist/` (built from this source with `build.ps1`,
-requires nothing but Windows to run) and double-click `Install.exe`.
+**Just want it working:** grab the zip from the
+[latest release](https://github.com/StrixEvo/MemTrim/releases/latest) (built from
+this source with `build.ps1`, requires nothing but Windows to run), unzip it, and
+double-click `Install.exe`.
 
 **Want to read the code first, or don't trust a random exe:** that's a completely
 reasonable position for something that touches admin-level memory APIs. Clone the
