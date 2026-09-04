@@ -1,0 +1,14 @@
+# Runtime state, regenerated per machine, never part of the release
+config.json
+Logs/
+*.log
+
+# Build output. Run build.ps1 to regenerate rather than committing
+# compiled binaries to source control.
+dist/
+
+# Editor / OS cruft
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini

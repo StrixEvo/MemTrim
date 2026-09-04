@@ -1,0 +1,13 @@
+{
+  "watchdogEnabled": true,
+  "thresholdPercent": 12,
+  "checkIntervalSec": 20,
+  "skipWhenFullscreen": true,
+  "excludeProcesses": [
+    "iRacingSim64DX11",
+    "acs",
+    "AC2-Win64-Shipping",
+    "RTSS",
+    "MSIAfterburner"
+  ]
+}
